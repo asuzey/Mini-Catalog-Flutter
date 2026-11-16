@@ -6,9 +6,9 @@ Urunler wantapi.com dan cekilir grid ile listelenir urun detayi gosterilir ve ba
 
 ## Ekran Goruntuleri
 
-| Ana Sayfa | Urun Detayi | Sepet | Bos Sepet |
-|:---:|:---:|:---:|:---:|
-| ![Home](docs/screenshots/02_home.png) | ![Detail](docs/screenshots/03_detail.png) | ![Cart](docs/screenshots/04_cart.png) | ![Empty](docs/screenshots/05_empty_cart.png) |
+| Ana Sayfa | Urun Detayi | Sepet |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/ana_sayfa.png" width="220"> | <img src="docs/screenshots/urun_detayi.png" width="220"> | <img src="docs/screenshots/sepet.png" width="220"> |
 
 ## Ozellikler
 
