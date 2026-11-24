@@ -50,3 +50,10 @@ flutter run
 ## Not
 
 Urun verileri egitim ve demo amaclidir.
+
+ -  Bu readme sayfasının düzenlenmesinde ai desteği alinmistir.
+
+## Teşekkür
+
+Bu projeyi nasıl yapabileceğimizi öğreten ve bu eğitimi bize sağlayan TNC Group Software Persona'ya teşekkür ederim.
+- Asuman Zeynep Bayram
